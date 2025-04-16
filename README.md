@@ -58,6 +58,11 @@ nvm install 20.18.1
 nvm use 20.18.1
 ```
 
+### Example .env
+# Konfigurasi API
+VITE_API_BASE_URL=http://<your-ip-or-url>:<port>/api
+VITE_API_VERSION=/v1
+
 ### Build project
 
 masuk ke folder nya
